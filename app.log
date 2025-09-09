@@ -1,0 +1,23 @@
+2025-09-09 00:42:45,893 - api_users - INFO - Iniciando a aplicação FastAPI...
+2025-09-09 00:42:46,930 - api_users - INFO - Iniciando a aplicação FastAPI...
+2025-09-09 00:49:26,336 - api_users - INFO - Iniciando a aplicação FastAPI...
+2025-09-09 01:01:52,807 - api_users - INFO - GET /users - Parâmetros de consulta recebidos.
+2025-09-09 01:01:52,807 - api_users - INFO - Tentando ler o arquivo de mock: mock-users.json
+2025-09-09 01:01:52,808 - api_users - INFO - Dados do arquivo lidos com sucesso. Total de 25 usuários.
+2025-09-09 01:01:52,808 - api_users - INFO - Aplicando filtros: q=Felipe Ferraz, role=None, is_active=None
+2025-09-09 01:07:44,404 - api_users - INFO - GET /users - Parâmetros de consulta recebidos.
+2025-09-09 01:07:44,404 - api_users - INFO - Tentando ler o arquivo de mock: mock-users.json
+2025-09-09 01:07:46,034 - api_users - INFO - Dados do arquivo lidos com sucesso. Total de 25 usuários.
+2025-09-09 01:07:46,035 - api_users - INFO - Aplicando filtros: q=fferraz2@contoso.dev, role=None, is_active=None
+2025-09-09 01:13:07,933 - api_users - INFO - GET /users - Parâmetros de consulta recebidos.
+2025-09-09 01:13:07,934 - api_users - INFO - Tentando ler o arquivo de mock: mock-users.json
+2025-09-09 01:13:07,935 - api_users - INFO - Dados do arquivo lidos com sucesso. Total de 25 usuários.
+2025-09-09 01:13:07,935 - api_users - INFO - Aplicando filtros: q=Tiago Hoffmann, role=None, is_active=None
+2025-09-09 09:46:05,019 - api_users - INFO - Iniciando a aplicação FastAPI...
+2025-09-09 10:24:51,062 - api_users - INFO - Iniciando a aplicação FastAPI...
+2025-09-09 10:35:50,359 - api_users - INFO - Iniciando a aplicação FastAPI...
+2025-09-09 10:36:16,262 - api_users - INFO - GET /users - Parâmetros de consulta recebidos.
+2025-09-09 10:36:16,263 - api_users - INFO - Tentando ler o arquivo de mock: mock-users.json
+2025-09-09 10:36:16,311 - api_users - INFO - Dados do arquivo lidos com sucesso. Total de 25 usuários.
+2025-09-09 10:36:16,312 - api_users - INFO - Aplicando filtros: q=Tiago Hoffmann, role=None, is_active=None
+2025-09-09 20:16:13,756 - api_users - INFO - Iniciando a aplicação FastAPI...
