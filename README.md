@@ -41,7 +41,7 @@ A API estará acessível em:
 
   * `http://localhost:8000` (para acessar da própria máquina)
   * `http://127.0.0.1:8000` (para acessar da própria máquina)
-  * `http://SEU_IP_LOCAL:8000` (para acessar de outros dispositivos na mesma rede, como seu celular). Substitua `SEU_IP_LOCAL` pelo IP da sua máquina (ex: `http://192.168.1.100:8000`).
+  
 
 ## Exemplos de Teste
 
