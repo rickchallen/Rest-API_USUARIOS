@@ -67,8 +67,7 @@ Endpoint `GET /users` com paginação padrão (`page=1`, `page_size=10`) e sem f
 # Acesso local
 curl "http://localhost:8000/users"
 
-# Acesso via IP da máquina (se estiver testando de outro dispositivo na rede)
-# curl "http://SEU_IP_LOCAL:8000/users"
+
 ```
 
 #### Buscar usuários por nome ou e-mail
