@@ -21,3 +21,18 @@
 2025-09-09 10:36:16,311 - api_users - INFO - Dados do arquivo lidos com sucesso. Total de 25 usuários.
 2025-09-09 10:36:16,312 - api_users - INFO - Aplicando filtros: q=Tiago Hoffmann, role=None, is_active=None
 2025-09-09 20:16:13,756 - api_users - INFO - Iniciando a aplicação FastAPI...
+2025-09-17 09:14:49,819 - api_users - INFO - Iniciando a aplicação FastAPI...
+2025-09-17 09:16:22,451 - api_users - INFO - GET /users - Parâmetros de consulta recebidos.
+2025-09-17 09:16:22,451 - api_users - INFO - Tentando ler o arquivo de mock: mock-users.json
+2025-09-17 09:16:22,453 - api_users - INFO - Dados do arquivo lidos com sucesso. Total de 25 usuários.
+2025-09-17 09:16:22,455 - api_users - INFO - Aplicando filtros: q=Palmeiras, role=None, is_active=None
+2025-09-17 09:16:54,529 - api_users - INFO - GET /users - Parâmetros de consulta recebidos.
+2025-09-17 09:16:54,530 - api_users - INFO - Tentando ler o arquivo de mock: mock-users.json
+2025-09-17 09:16:54,530 - api_users - INFO - Dados do arquivo lidos com sucesso. Total de 25 usuários.
+2025-09-17 09:16:54,531 - api_users - INFO - Aplicando filtros: q=Felipe, role=None, is_active=None
+2025-09-27 05:32:13,506 - api_users - INFO - Iniciando a aplicação FastAPI...
+2025-09-27 05:35:14,810 - api_users - INFO - GET /users/3
+2025-09-27 05:35:14,810 - api_users - INFO - Buscando usuário com ID: 3
+2025-09-27 05:35:14,811 - api_users - INFO - Tentando ler o arquivo de mock: mock-users.json
+2025-09-27 05:35:14,850 - api_users - INFO - Dados do arquivo lidos com sucesso. Total de 25 usuários.
+2025-09-27 05:35:14,850 - api_users - INFO - Usuário com ID 3 encontrado.
